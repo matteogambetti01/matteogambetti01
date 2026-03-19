@@ -7,12 +7,12 @@ Machine learning engineer with a strong focus on **Deep Learning** and **Compute
 Experienced in designing hybrid anomaly detection systems using PyTorch and FastAPI,
 during an internship at **Data Reply**.
 
-## 🔧 Tech Stack
+## Tech Stack
 `Python` `PyTorch` `TensorFlow` `OpenCV` `Flask` `FastApi`
 
-## 📌 Featured Projects
-- 🔍 [GANomaly Anomaly Detection](link) — Unsupervised anomaly detection on MVTec dataset
-- 💳 [Credit Fraud Detection](link) — Binary classification with neural networks
-- 🌐 [DevOps Forum App](link) — Flask app with full CI/CD pipeline and Docker
+## Featured Projects
+- [GANomaly Anomaly Detection](link) — Unsupervised anomaly detection on MVTec dataset
+- [Credit Fraud Detection](link) — Binary classification with neural networks
+- [DevOps Forum App](link) — Flask app with full CI/CD pipeline and Docker
 
 📫 Reach me: matteo.gambetti58@gmail.com · https://www.linkedin.com/in/matteo-gambetti/
