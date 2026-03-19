@@ -11,7 +11,7 @@ during an internship at **Data Reply**.
 `Python` `PyTorch` `TensorFlow` `OpenCV` `Flask` `FastApi`
 
 ## Featured Projects
-- [GANomaly Anomaly Detection](link) — Unsupervised anomaly detection on MVTec dataset
+- [GANomaly Anomaly Detection](https://github.com/matteogambetti01/ganomaly-anomaly-detection) — Unsupervised anomaly detection on MVTec dataset
 - [Credit Fraud Detection](link) — Binary classification with neural networks
 - [DevOps Forum App](link) — Flask app with full CI/CD pipeline and Docker
 
