@@ -12,7 +12,7 @@ during an internship at **Data Reply**.
 
 ## Featured Projects
 - [GANomaly Anomaly Detection](https://github.com/matteogambetti01/ganomaly-anomaly-detection) — Unsupervised anomaly detection on MVTec dataset
-- [Credit Fraud Detection](link) — Binary classification with neural networks
+- [Credit Fraud Detection](https://github.com/matteogambetti01/credit-card-fraud-detection) — Binary classification with neural networks
 - [DevOps Forum App](link) — Flask app with full CI/CD pipeline and Docker
 
 Reach me: matteo.gambetti58@gmail.com · https://www.linkedin.com/in/matteo-gambetti/
